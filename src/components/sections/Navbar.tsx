@@ -37,7 +37,7 @@ export function Navbar() {
         <Link href="/product" className="text-sm font-medium uppercase tracking-[0.2em] text-white/50 hover:text-white/80 transition">
           Our Set
         </Link>
-        <Button
+       <Button
           size="sm"
           className="rounded-full border border-yellow-400/70 bg-[#FCD015] px-6 text-sm font-semibold uppercase tracking-[0.18em] text-[#3A3838] shadow-[0_0_35px_rgba(252,208,21,0.5)] transition hover:scale-[1.03] hover:shadow-[0_0_45px_rgba(252,208,21,0.65)]"
         >
